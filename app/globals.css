@@ -5,6 +5,9 @@
   --background: #ffffff;
   --foreground: #171717;
 }
+* {
+  scroll-behavior: smooth;
+}
 body::-webkit-scrollbar {
   width: 1px;               /* width of the entire scrollbar */
 }
